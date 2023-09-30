@@ -1,0 +1,5 @@
+C:\Users\askin.kesik\Desktop\Quartz\obj\Debug\net7.0\Quartz.csproj.AssemblyReference.cache
+C:\Users\askin.kesik\Desktop\Quartz\obj\Debug\net7.0\Quartz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\askin.kesik\Desktop\Quartz\obj\Debug\net7.0\Quartz.AssemblyInfoInputs.cache
+C:\Users\askin.kesik\Desktop\Quartz\obj\Debug\net7.0\Quartz.AssemblyInfo.cs
+C:\Users\askin.kesik\Desktop\Quartz\obj\Debug\net7.0\Quartz.csproj.CoreCompileInputs.cache
